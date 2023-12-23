@@ -1,3 +1,5 @@
+![Pixelated Me](https://www.dariomazzanti.com/wp-content/uploads/2021/03/solid_dawn.gif)
+
 # Welcome to My Creative Space! 🎨✨
 
 Hey there! I'm Jason, a passionate student diving into the world of graphics and multimedia. This is my learning journey, and I'm excited to share it with you!
