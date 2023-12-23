@@ -1,4 +1,4 @@
-![kirokaze - Professional, Digital Artist _ DeviantArt](https://github.com/jsonjoel/jsonjoel/assets/148432527/841fea70-bcd4-4941-a25c-6154044cf985)
+![4c3de7b9-0733-49b4-bb91-9407f80b27c2](https://github.com/jsonjoel/jsonjoel/assets/148432527/a597a987-555e-4cbd-8621-650a41c44fe9)
 
 # Welcome to My Creative Space! 🎨✨
 
