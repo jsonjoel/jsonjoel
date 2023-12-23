@@ -1,6 +1,7 @@
-![Pixelated Me](https://www.pinterest.com/pin/685884218239715737/)
+![kirokaze - Professional, Digital Artist _ DeviantArt](https://github.com/jsonjoel/jsonjoel/assets/148432527/841fea70-bcd4-4941-a25c-6154044cf985)
 
 # Welcome to My Creative Space! 🎨✨
+
 
 Hey there! I'm Jason, a passionate student diving into the world of graphics and multimedia. This is my learning journey, and I'm excited to share it with you!
 
