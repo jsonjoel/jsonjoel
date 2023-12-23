@@ -1,4 +1,4 @@
-![Pixelated Me](https://www.dariomazzanti.com/wp-content/uploads/2021/03/solid_dawn.gif)
+![Pixelated Me](https://www.pinterest.com/pin/685884218239715737/)
 
 # Welcome to My Creative Space! 🎨✨
 
