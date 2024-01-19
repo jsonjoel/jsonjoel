@@ -15,7 +15,7 @@ Hey there! I'm Jason, a passionate student diving into the world of graphics and
 
 Currently, I'm delving into:
 
-- 🖌️ **Graphic Design**: Mastering tools like Photoshop and Illustrator to bring my ideas to life.
+- 🖌️ **Graphic Design**: Mastering tools like Blender and Unreal Engine to bring my ideas to life.
 - 🎬 **Multimedia Production**: Creating engaging multimedia content using tools like Premiere Pro and After Effects.
 
 ## Projects
