@@ -17,7 +17,6 @@ Currently, I'm delving into:
 
 - 🖌️ **Graphic Design**: Mastering tools like Photoshop and Illustrator to bring my ideas to life.
 - 🎬 **Multimedia Production**: Creating engaging multimedia content using tools like Premiere Pro and After Effects.
-- 📸 **Digital Photography**: Capturing moments and enhancing my storytelling skills through visuals.
 
 ## Projects
 
