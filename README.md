@@ -15,7 +15,7 @@ Hey there! I'm Jason, a passionate student diving into the world of graphics and
 
 Currently, I'm delving into:
 
-- 🖌️ **Graphic Design** **&&**🎬 **Multimedia Production**: Mastering tools to bring my ideas to life and creating engaging multimedia content using tools like Blender and Unity.
+- 🖌️ **Graphic Design** **&** 🎬 **Multimedia Production**: Mastering tools to bring my ideas to life and creating engaging multimedia content using tools like Blender and Unity.
 
 ## Projects
 
