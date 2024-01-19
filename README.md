@@ -23,7 +23,11 @@ Currently, I'm delving into:
 
 Check out some of my hands-on projects:
 
-1. Assignment 1 Assignment/ASSIGNMENT 3 - G08 - S07.pdf
+Technoloy and Information System (TIS) Course Assignments 
+1. Assignment 1 - https://github.com/jsonjoel/TIS-Projects/blob/84e71012de788889d7df85e966f5036af4a786b9/Assignment/NALI%202023%20REPORT%20-%20S07%20-%20G08.pdf
+2. Assignment 2 - https://github.com/jsonjoel/TIS-Projects/blob/84e71012de788889d7df85e966f5036af4a786b9/Assignment/Overview%20of%20ICT%20Jobs%20(Group%208).png
+3. Assignment 3 - https://github.com/jsonjoel/TIS-Projects/blob/84e71012de788889d7df85e966f5036af4a786b9/Assignment/ASSIGNMENT%203%20-%20G08%20-%20S07.pdf
+4. Assignment 4 - https://github.com/jsonjoel/TIS-Projects/blob/84e71012de788889d7df85e966f5036af4a786b9/Assignment/ASSIGNMENT%204.pdf
 
 ## Goals
 
