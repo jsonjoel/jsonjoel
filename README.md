@@ -23,7 +23,7 @@ Currently, I'm delving into:
 
 Check out some of my hands-on projects:
 
-1. -
+1. Assignment 1 Assignment/ASSIGNMENT 3 - G08 - S07.pdf
 
 ## Goals
 
